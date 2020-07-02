@@ -1,0 +1,37 @@
+{
+    "editor.cursorBlinking": "phase",
+    "explorer.sortOrder": "type",
+    "workbench.editor.highlightModifiedTabs": true,
+    "vim.cursorStylePerMode.insert": "line",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.cursorStylePerMode.visual": "line",
+    "vim.searchHighlightColor": "rgba(255, 255, 255, 0.2)",
+
+    "workbench.colorTheme": "Default Dark+",
+
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "variables": "#dfdfdf",
+            "functions": "#898989"
+        }
+        // add bold variables
+    },
+
+    "csharp.referencesCodeLens.enabled": false,
+    "window.zoomLevel": -1,
+    "search.collapseResults": "alwaysCollapse",
+    "workbench.colorCustomizations": {
+        "editor.foldBackground": "#00000000",
+        "contrastActiveBorder": "#23a2c8",
+        "selection.background": "#b823a4"
+    },
+
+    "workbench.editor.scrollToSwitchTabs": true
+    /*
+    "workbench.colorCustomizations": {
+        "[Default Dark+]": {
+
+            "editor.foreground":"#ffffff"
+        },
+    }*/
+}
