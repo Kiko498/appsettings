@@ -7,8 +7,6 @@
     "vim.cursorStylePerMode.visual": "line",
     "vim.searchHighlightColor": "rgba(255, 255, 255, 0.2)",
 
-    "workbench.colorTheme": "Default Dark+",
-
     "editor.tokenColorCustomizations": {
         "[Default Dark+]": {
             "variables": "#dfdfdf",
@@ -16,17 +14,26 @@
         }
         // add bold variables
     },
-
-    "csharp.referencesCodeLens.enabled": false,
     "window.zoomLevel": -1,
     "search.collapseResults": "alwaysCollapse",
     "workbench.colorCustomizations": {
+        "statusBar.background" : "#2A2A2A",
         "editor.foldBackground": "#00000000",
         "contrastActiveBorder": "#23a2c8",
         "selection.background": "#b823a4"
     },
 
-    "workbench.editor.scrollToSwitchTabs": true
+    "workbench.editor.scrollToSwitchTabs": true,
+    "editor.minimap.enabled": false,
+    "csharp.referencesCodeLens.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.statusBar.visible": true,
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": false,
+    "files.autoSave": "afterDelay",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false
+
     /*
     "workbench.colorCustomizations": {
         "[Default Dark+]": {
